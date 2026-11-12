@@ -63,8 +63,6 @@ All unexpected behaviours will be documented with supporting evidence if identif
 
 ## 6. Testing Conclusion
 
-## 6. Testing Conclusion
-
 Manual functional testing was conducted on the SauceDemo application.
 
 The testing activities covered the application's login and product functionality, with additional testing activities planned for the shopping cart and checkout processes.
