@@ -39,11 +39,11 @@ The following information will be completed using the actual results recorded in
 
 | Test Result | Total |
 |---|---|
-| Passed | Pending |
-| Failed | Pending |
-| Blocked | Pending |
-| Not Run | Pending |
-| Total Test Cases | Pending |
+| Passed | 4 |
+| Failed | 0 |
+| Blocked | 0|
+| Not Run | 18 |
+| Total Test Cases | 22 |
 
 ## 5. Defect Summary
 
