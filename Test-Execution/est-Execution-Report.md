@@ -78,7 +78,13 @@ Testing is still in progress. A final conclusion will be provided once all plann
 
 ## 7. Supporting Evidence
 
-Screenshots captured during testing are stored in the Test-Execution/Evidence folder.
+Screenshots captured during manual testing are stored in the following GitHub directory:
+
+Evidence/Screenshots/
+
+The screenshots are labelled according to their corresponding test case IDs (TC001–TC022).
+
+These screenshots provide supporting evidence of the test execution activities and observed application behaviour.
 
 ## 8. Project Status
 
