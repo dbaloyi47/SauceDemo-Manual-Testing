@@ -9,6 +9,7 @@ The objective is to evaluate the application's functionality, identify defects a
 ## 2. Application Under Test
 
 - Application: SauceDemo
+- Website: https://www.saucedemo.com/
 - Testing Type: Manual Testing
 - Testing Approach: Black-box Testing
 - Testing Focus: Functional Testing
