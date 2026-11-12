@@ -63,11 +63,20 @@ All unexpected behaviours will be documented with supporting evidence if identif
 
 ## 6. Testing Conclusion
 
-Manual functional testing was performed on the SauceDemo application.
+## 6. Testing Conclusion
 
-The tested functionalities included authentication, product inventory, shopping cart operations and checkout.
+Manual functional testing was conducted on the SauceDemo application.
 
-The final testing conclusion will be updated after reviewing all test execution results.
+The testing activities covered the application's login and product functionality, with additional testing activities planned for the shopping cart and checkout processes.
+
+Based on the current execution records:
+
+- 4 test cases passed.
+- 0 test cases failed.
+- 18 test cases remain not run.
+- No confirmed defects were identified.
+
+Testing is still in progress. A final conclusion will be provided once all planned test cases have been executed and documented.
 
 ## 7. Supporting Evidence
 
