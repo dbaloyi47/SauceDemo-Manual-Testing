@@ -47,7 +47,19 @@ The following information will be completed using the actual results recorded in
 
 ## 5. Defect Summary
 
-No defects were identified during the testing performed so far.
+## 5. Defect Summary
+
+During the testing performed, no confirmed defects were identified.
+
+| Defect Category | Total |
+|---|---:|
+| Critical | 0 |
+| High | 0 |
+| Medium | 0 |
+| Low | 0 |
+| Total Defects | 0 |
+
+All unexpected behaviours will be documented with supporting evidence if identified during further testing.
 
 ## 6. Testing Conclusion
 
