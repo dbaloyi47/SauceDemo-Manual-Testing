@@ -6,13 +6,13 @@
 **Application:** SauceDemo Demo Application  
 **Testing Type:** Manual Testing  
 **Testing Approach:** Functional Testing  
-**Project Status:** In Progress
+**Project Status:** Completed
 
 ## 2. Testing Objectives
 
-The objective of this testing project is to evaluate the functionality of the SauceDemo application and identify potential defects.
+The objective of this testing project was to evaluate the functionality of the SauceDemo application and identify potential defects.
 
-The testing focuses on:
+The testing covered:
 
 - User login functionality.
 - Product inventory and display.
@@ -28,24 +28,24 @@ The testing focuses on:
 |---|---|
 | Application | SauceDemo |
 | Testing Type | Manual Testing |
-| Browser | To be confirmed |
-| Operating System | To be confirmed |
+| Browser | Google Chrome |
+| Operating System | Windows |
 | Test Management | Microsoft Excel |
 | Documentation | GitHub |
 
 ## 4. Test Execution Summary
 
-The following information will be completed using the actual results recorded in the test case workbook.
+All 22 planned test cases were executed, and the actual results were recorded in the test case workbook.
 
 | Test Result | Total |
-|---|---|
-| Passed | 4 |
+|---|---:|
+| Passed | 22 |
 | Failed | 0 |
-| Blocked | 0|
-| Not Run | 18 |
-| Total Test Cases | 22 |
+| Blocked | 0 |
+| Not Run | 0 |
+| **Total Test Cases** | **22** |
 
-## 5. Defect Summary
+**Overall Pass Rate: 100%**
 
 ## 5. Defect Summary
 
@@ -57,34 +57,42 @@ During the testing performed, no confirmed defects were identified.
 | High | 0 |
 | Medium | 0 |
 | Low | 0 |
-| Total Defects | 0 |
+| **Total Defects** | **0** |
 
-All unexpected behaviours will be documented with supporting evidence if identified during further testing.
+No confirmed defects were identified during the execution of the planned test cases.
 
 ## 6. Testing Conclusion
 
-Manual functional testing was conducted on the SauceDemo application.
+Manual functional testing was successfully completed on the SauceDemo application.
 
-The testing activities covered the application's login and product functionality, with additional testing activities planned for the shopping cart and checkout processes.
+The testing activities covered the application's login functionality, product inventory, product sorting, shopping cart operations, checkout process, and order completion.
 
-Based on the current execution records:
+The final execution results were:
 
-- 4 test cases passed.
+- 22 test cases passed.
 - 0 test cases failed.
-- 18 test cases remain not run.
-- No confirmed defects were identified.
+- 0 test cases blocked.
+- 0 test cases not run.
+- 0 confirmed defects identified.
 
-Testing is still in progress. A final conclusion will be provided once all planned test cases have been executed and documented.
+The application behaved as expected across all executed test cases.
+
+The project demonstrates practical experience in manual testing, test case execution, test documentation, evidence collection, and defect reporting.
 
 ## 7. Supporting Evidence
 
 Screenshots captured during manual testing are stored in the following GitHub directory:
 
 **Evidence folder:** [View Test Execution Screenshots](https://github.com/dbaloyi47/SauceDemo-Manual-Testing/tree/main/Evidence/Screenshots)
+
 The screenshots are labelled according to their corresponding test case IDs (TC001–TC022).
 
 These screenshots provide supporting evidence of the test execution activities and observed application behaviour.
 
 ## 8. Project Status
 
-Testing documentation and execution evidence are being maintained in this GitHub repository.
+**Status: Completed**
+
+All 22 planned test cases have been executed and documented.
+
+The test execution results, supporting evidence, and testing documentation are maintained in this GitHub repository.
