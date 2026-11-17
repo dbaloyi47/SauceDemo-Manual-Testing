@@ -49,7 +49,7 @@ The project includes:
 
 | Test Result | Total |
 |---|---:|
-| Passed | 22 |
+| Passed | 23 |
 | Failed | 0 |
 | Blocked | 0 |
 | Not Run | 0 |
