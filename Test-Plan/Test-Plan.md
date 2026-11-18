@@ -2,9 +2,9 @@
 
 ## 1. Introduction
 
-This test plan describes the testing activities that will be performed on the SauceDemo e-commerce application.
+This test plan describes the testing activities performed on the SauceDemo e-commerce application.
 
-The purpose is to verify that the application's main functionalities work according to expected behaviour.
+The purpose was to verify that the application's main functionalities work according to expected behaviour.
 
 ## 2. Testing Objectives
 
@@ -33,9 +33,9 @@ The purpose is to verify that the application's main functionalities work accord
 
 ## 4. Testing Approach
 
-Testing will be performed manually using black-box testing techniques.
+Testing was performed manually using black-box testing techniques.
 
-Test cases will include positive and negative scenarios.
+Test cases included positive and negative scenarios.
 
 ## 5. Testing Environment
 
@@ -54,16 +54,16 @@ Test cases will include positive and negative scenarios.
 
 ## 7. Entry Criteria
 
-- Application is accessible.
-- Testing environment is available.
-- Test scenarios have been identified.
+- Application was accessible.
+- Testing environment was available.
+- Test scenarios were identified.
 
 ## 8. Exit Criteria
 
-- Planned test cases have been executed.
-- Identified defects have been documented.
-- Test execution results have been recorded.
-- Testing summary has been prepared.
+- Planned test cases were executed.
+- Identified defects were documented where applicable.
+- Test execution results were recorded.
+- Testing summary was prepared.
 
 ## 9. Risks
 
@@ -71,6 +71,13 @@ Test cases will include positive and negative scenarios.
 - Unexpected application behaviour.
 - Limited testing time.
 
-## 10. Project Status
+## 10. Testing Results
 
-In Progress.
+- Manual functional testing activities were completed.
+- Test execution results were recorded.
+- No confirmed software defects were identified during the executed tests.
+- Testing evidence was documented.
+
+## 11. Project Status
+
+**Completed.**
