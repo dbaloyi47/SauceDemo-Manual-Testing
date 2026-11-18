@@ -53,7 +53,7 @@ The project includes:
 | Failed | 0 |
 | Blocked | 0 |
 | Not Run | 0 |
-| **Total Test Cases** | **22** |
+| **Total Test Cases** | **23** |
 
 **Overall Pass Rate: 100%**
 
